@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif)
 <h1 align="center">Hi 👋, I'm Erich</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
