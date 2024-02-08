@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Personal Manager App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** , **Python** , **Flask**
 
-- 💬 Ask me about **React** , **JavaScript**
+- 💬 Ask me about **React** , **JavaScript** , **Python** , **Flask**
 
 - 📫 How to reach me **szinnerich@yahoo.com**
 
